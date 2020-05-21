@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="name_goes_here">name_goes_here</string>
+    <string name="phone_number_goes_here">phone_number_goes_here</string>
+</resources>
